@@ -10,5 +10,6 @@
         "guiName": "Buffs Window Remover",
         "niceName": "Buffs Window Remover"
     },
-	"servers": ["https://raw.githubusercontent.com/DeathDefying/UI-Remover/master/remove_BuffsWindow/"]
+    "servers": ["https://raw.githubusercontent.com/DeathDefying/UI-Remover/master/remove_BuffsWindow/"],
+    "description": "Description goes here."
 }
