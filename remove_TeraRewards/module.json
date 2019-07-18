@@ -1,0 +1,15 @@
+{
+    "disableAutoUpdate": false,
+    "dependencies": {
+        "modern-Resources": "https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_Resources/module.json"
+    },
+    "name": "remove-TeraRewards",
+    "category": "client",
+    "author": "Yang",
+    "options": {
+        "guiName": "Tera Rewards Remover",
+        "niceName": "Tera Rewards Remover"
+    },
+    "servers": ["https://raw.githubusercontent.com/DeathDefying/UI-Remover/master/remove_TeraRewards/"],
+    "description": "Description goes here."
+}

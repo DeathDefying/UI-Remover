@@ -1,0 +1,9 @@
+{
+    "files": {
+        "S1UI_Chat2.gpk": "5e6d4efa2d8375cd7029d4d48c91fad1de6e817b64ffe889d6a88a46684a4887",
+        "S1UI_ProgressBar.gpk": "f269f57e7889046a386ad1a6029738a30ea777402ae12ab3860fe380d018fd2f",
+        "config.json": "ebd3d3cb8ff6f281c7eadbf13104ced1c72b864363dc69a4225c3cb527d1c061",
+        "index.js": "09c7c05c04e8bb7f3fce2363fa56e2f9e959c68b9ef8f687fc3ff934284ed9ed",
+        "module.json": "587e3585d722fdc6f45944fc105c6616fcd0b447b73cadca917aa8161e484911"
+    }
+}

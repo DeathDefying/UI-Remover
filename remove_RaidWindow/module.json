@@ -1,0 +1,15 @@
+{
+    "disableAutoUpdate": false,
+    "dependencies": {
+        "modern-Resources": "https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_Resources/module.json"
+    },
+    "name": "remove-RaidWindow",
+    "category": "client",
+    "author": "Yang",
+    "options": {
+        "guiName": "Raid Window Remover",
+        "niceName": "Raid Window Remover"
+    },
+    "servers": ["https://raw.githubusercontent.com/DeathDefying/UI-Remover/master/remove_RaidWindow/"],
+    "description": "Description goes here."
+}

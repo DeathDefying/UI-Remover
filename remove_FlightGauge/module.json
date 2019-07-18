@@ -1,0 +1,15 @@
+{
+    "disableAutoUpdate": false,
+    "dependencies": {
+        "modern-Resources": "https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_Resources/module.json"
+    },
+    "name": "remove-FlightGauge",
+    "category": "client",
+    "author": "Yang",
+    "options": {
+        "guiName": "Flight Gauge Remover",
+        "niceName": "Flight Gauge Remover"
+    },
+    "servers": ["https://raw.githubusercontent.com/DeathDefying/UI-Remover/master/remove_FlightGauge/"],
+    "description": "Description goes here."
+}

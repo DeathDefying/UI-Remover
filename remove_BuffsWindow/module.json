@@ -1,0 +1,14 @@
+{
+    "disableAutoUpdate": false,
+    "dependencies": {
+        "modern-Resources": "https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_Resources/module.json"
+    },
+    "name": "remove-Buffs",
+    "category": "client",
+    "author": "Yang",
+    "options": {
+        "guiName": "Buffs Window Remover",
+        "niceName": "Buffs Window Remover"
+    },
+	"servers": ["https://raw.githubusercontent.com/DeathDefying/UI-Remover/master/remove_BuffsWindow/"]
+}
