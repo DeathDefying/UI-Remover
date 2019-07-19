@@ -1,7 +1,10 @@
 {
     "files": {
         "S1UI_ProgressBar.gpk": "f269f57e7889046a386ad1a6029738a30ea777402ae12ab3860fe380d018fd2f",
-        "config.json": "ebd3d3cb8ff6f281c7eadbf13104ced1c72b864363dc69a4225c3cb527d1c061",
+        "config.json": {
+            "overwrite": false,
+            "hash": "ebd3d3cb8ff6f281c7eadbf13104ced1c72b864363dc69a4225c3cb527d1c061"
+        },
         "index.js": "0a67d1b4c821280d2b81458b3f4e42015f57179766b587436fac80d020a36470",
         "module.json": "c3bd1e04ab9df603f5ea51404e2d33b16bd64a784f058476129e172288aa6fe4"
     }

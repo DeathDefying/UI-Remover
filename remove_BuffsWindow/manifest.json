@@ -1,7 +1,10 @@
 {
     "files": {
         "S1UI_Abnormality.gpk": "c2c7bbda47e48d9345c88926fdae7e18e44a8b01b1aa5e0ae21aa888de3cf1ca",
-        "config.json": "ebd3d3cb8ff6f281c7eadbf13104ced1c72b864363dc69a4225c3cb527d1c061",
+        "config.json": {
+            "overwrite": false,
+            "hash": "ebd3d3cb8ff6f281c7eadbf13104ced1c72b864363dc69a4225c3cb527d1c061"
+        },
         "index.js": "6fcb895ddb15b055a67e7b52b614c3bf149baa5686c8edcc7f59a0da9b270356",
         "module.json": "88ed367aaa34fe0138f7ca4c9f7e911656b49cd22bb26a33412aa9fa06c4ed12"
     }
