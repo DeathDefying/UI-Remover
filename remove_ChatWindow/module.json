@@ -1,5 +1,5 @@
 {
-    "disableAutoUpdate": true,
+    "disableAutoUpdate": false,
     "dependencies": {
         "modern-Resources": "https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_Resources/module.json"
     },
@@ -7,8 +7,8 @@
     "category": "client",
     "author": "Yang",
     "options": {
-        "guiName": "Party-Raid Window Remover",
-        "niceName": "Party-Raid Window Remover"
+        "guiName": "Chat Window Remover",
+        "niceName": "Chat Window Remover"
     },
     "servers": ["https://raw.githubusercontent.com/DeathDefying/UI-Remover/master/remove_ChatWindow/"],
     "description": "Description goes here."

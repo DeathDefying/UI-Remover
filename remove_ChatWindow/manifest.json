@@ -4,9 +4,9 @@
         "S1UI_ProgressBar.gpk": "f269f57e7889046a386ad1a6029738a30ea777402ae12ab3860fe380d018fd2f",
         "config.json": {
             "overwrite": false,
-            "hash": "ebd3d3cb8ff6f281c7eadbf13104ced1c72b864363dc69a4225c3cb527d1c061"
+            "hash": "5dd931b2e25f8f35cd77651439e4e0f9825647c545d1a74013493b6d9973e2ff"
         },
         "index.js": "09c7c05c04e8bb7f3fce2363fa56e2f9e959c68b9ef8f687fc3ff934284ed9ed",
-        "module.json": "d3dd19e9160bae2f0ec884402adea25fd256ae4d12b9728c4f24d70f148f02cc"
+        "module.json": "55afac9b2ef58f97f0d81926b911d992ba067e024b2117e8cf7ae8f30d0d94fb"
     }
 }
