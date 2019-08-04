@@ -7,8 +7,8 @@
     "category": "client",
     "author": "Yang",
     "options": {
-        "guiName": "Chat Window Remover",
-        "niceName": "Chat Window Remover"
+        "guiName": "UI Remover: Chat Window",
+        "niceName": "UI Remover: Chat Window"
     },
     "servers": ["https://raw.githubusercontent.com/DeathDefying/UI-Remover/master/remove_ChatWindow/"],
     "description": "Description goes here."

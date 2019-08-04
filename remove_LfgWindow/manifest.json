@@ -2,8 +2,11 @@
     "files": {
         "S1UI_PartyBoard.gpk": "c2c7bbda47e48d9345c88926fdae7e18e44a8b01b1aa5e0ae21aa888de3cf1ca",
         "S1UI_PartyBoardMemberInfo.gpk": "c2c7bbda47e48d9345c88926fdae7e18e44a8b01b1aa5e0ae21aa888de3cf1ca",
-        "config.json": "ebd3d3cb8ff6f281c7eadbf13104ced1c72b864363dc69a4225c3cb527d1c061",
+        "config.json": {
+            "overwrite": false,
+            "hash": "ebd3d3cb8ff6f281c7eadbf13104ced1c72b864363dc69a4225c3cb527d1c061"
+        },
         "index.js": "37dca3e181179da2f69ee3348ba8f0f73530ba555a3e10e97eff181bcae7b5b3",
-        "module.json": "bfcf5254cdcde23bc3d68bd430e598ddbb946bd603741817f677da36f0a30fa3"
+        "module.json": "61c3d85a39ac17b94646badb0ee51d0efb4debe04d87f6626c99a5aee79a76e8"
     }
 }

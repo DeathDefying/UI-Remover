@@ -7,8 +7,8 @@
     "category": "client",
     "author": "Yang",
     "options": {
-        "guiName": "Raid Window Remover",
-        "niceName": "Raid Window Remover"
+        "guiName": "UI Remover: Raid Window",
+        "niceName": "UI Remover: Raid Window"
     },
     "servers": ["https://raw.githubusercontent.com/DeathDefying/UI-Remover/master/remove_RaidWindow/"],
     "description": "Description goes here."

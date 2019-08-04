@@ -7,8 +7,8 @@
     "category": "client",
     "author": "Yang",
     "options": {
-        "guiName": "Quest Tracker Remover",
-        "niceName": "Quest Tracker Remover"
+        "guiName": "UI Remover: Quest Tracker Window",
+        "niceName": "UI Remover: Quest Tracker Window"
     },
     "servers": ["https://raw.githubusercontent.com/DeathDefying/UI-Remover/master/remove_QuestTracker/"],
     "description": "Description goes here."

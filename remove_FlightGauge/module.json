@@ -7,8 +7,8 @@
     "category": "client",
     "author": "Yang",
     "options": {
-        "guiName": "Flight Gauge Remover",
-        "niceName": "Flight Gauge Remover"
+        "guiName": "UI Remover: Flight Gauge Window",
+        "niceName": "UI Remover: Flight Gauge Window"
     },
     "servers": ["https://raw.githubusercontent.com/DeathDefying/UI-Remover/master/remove_FlightGauge/"],
     "description": "Description goes here."

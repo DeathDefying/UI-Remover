@@ -7,8 +7,8 @@
     "category": "client",
     "author": "Yang",
     "options": {
-        "guiName": "Party Window Remover",
-        "niceName": "Party Window Remover"
+        "guiName": "UI Remover: Party Window",
+        "niceName": "UI Remover: Party Window"
     },
     "servers": ["https://raw.githubusercontent.com/DeathDefying/UI-Remover/master/remove_PartyWindow/"],
     "description": "Description goes here."

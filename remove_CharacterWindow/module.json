@@ -7,8 +7,8 @@
     "category": "client",
     "author": "Yang",
     "options": {
-        "guiName": "CharacterWindow Remover",
-        "niceName": "CharacterWindow Remover"
+        "guiName": "UI Remover: Character Window",
+        "niceName": "UI Remover: Character Window"
     },
     "servers": ["https://raw.githubusercontent.com/DeathDefying/UI-Remover/master/remove_CharacterWindow/"],
     "description": "Description goes here."
