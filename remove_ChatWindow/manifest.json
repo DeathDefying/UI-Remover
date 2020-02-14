@@ -1,12 +1,11 @@
 {
-    "files": {
-        "S1UI_Chat2.gpk": "5e6d4efa2d8375cd7029d4d48c91fad1de6e817b64ffe889d6a88a46684a4887",
-        "S1UI_ProgressBar.gpk": "f269f57e7889046a386ad1a6029738a30ea777402ae12ab3860fe380d018fd2f",
-        "config.json": {
-            "overwrite": false,
-            "hash": "ebd3d3cb8ff6f281c7eadbf13104ced1c72b864363dc69a4225c3cb527d1c061"
-        },
-        "index.js": "3a3d0e08d54f7ff301565595008fab9ac75864ff0a22bee96adf3458b1bec9c8",
-        "module.json": "870ca6a043f5aa2208e95856916b8c2d582ab97b2aac7878d528fcc7dc91c812"
-    }
+	"files": {
+		"S1UI_Chat2.gpk": "5e6d4efa2d8375cd7029d4d48c91fad1de6e817b64ffe889d6a88a46684a4887",
+		"config.json": {
+			"overwrite": false,
+			"hash": "ebd3d3cb8ff6f281c7eadbf13104ced1c72b864363dc69a4225c3cb527d1c061"
+		},
+		"index.js": "3a3d0e08d54f7ff301565595008fab9ac75864ff0a22bee96adf3458b1bec9c8",
+		"module.json": "c4527b3fe566c3cd067cb483b007eb5cc03946771cfcf193c45733db35bc5213"
+	}
 }
