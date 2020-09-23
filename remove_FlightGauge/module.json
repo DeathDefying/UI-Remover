@@ -1,12 +1,12 @@
 {
     "disableAutoUpdate": false,
     "name": "remove-FlightGauge",
-    "category": "client",
-    "author": "Yang",
+    "keywords" : ["client"],
+    "author": "Yang, Foglio",
     "options": {
         "guiName": "UI Remover: Flight Gauge Window",
-        "niceName": "UI Remover: Flight Gauge Window"
+        "cliName": "UI Remover: Flight Gauge Window"
     },
-    "servers": ["https://raw.githubusercontent.com/DeathDefying/UI-Remover/master/remove_FlightGauge/"],
-    "description": "Description goes here."
+    "servers": ["https://raw.githubusercontent.com/Foglio1024/UI-Remover/master/remove_FlightGauge/"],
+    "description": "Hides flight gauge."
 }

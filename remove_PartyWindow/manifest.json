@@ -1,11 +1,8 @@
 {
 	"files": {
-		"S1UI_PartyWindow.gpk": "c2c7bbda47e48d9345c88926fdae7e18e44a8b01b1aa5e0ae21aa888de3cf1ca",
-		"config.json": {
-			"overwrite": false,
-			"hash": "ebd3d3cb8ff6f281c7eadbf13104ced1c72b864363dc69a4225c3cb527d1c061"
-		},
-		"index.js": "040199a3ed2c3a19bb47b81baf5561b30ce3c2253f1dbf4f2e8718a2b92369b7",
-		"module.json": "867dbb0aa2540171c929b945b0d5b90f9dc2cccda96a2c5ae13439990341ff57"
+		"S1UI_PartyWindow.gpk": "4d5beabb5ce39180cbbdc70f24f0584d8b1a30170dd5ff22b0fdb24e9a7de296",
+		"S1UI_PartyWindowRaidInfo.gpk": "7c68b115f5240b6f8af76685feba6439e3baf5c39013aadaf8b1ba95cbe3b0ca",
+		"index.js": "8e6d9e34a0c08c912d5cd6dfa6e72c0b393f4fc031894420dae3c5d07ef43624",
+		"module.json": "4570ec4412e80b6e2663d4934589ae38b59fb6ce1acf9e25b307fb0874e761fd"
 	}
 }

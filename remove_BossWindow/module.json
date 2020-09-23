@@ -1,12 +1,12 @@
 {
     "disableAutoUpdate": false,
     "name": "remove-BossWindow",
-    "category": "client",
-    "author": "Yang",
+    "keywords" : ["client"],
+    "author": "Yang, Foglio",
     "options": {
         "guiName": "UI Remover: Boss Window",
-        "niceName": "UI Remover: Boss Window"
+        "cliName": "UI Remover: Boss Window"
     },
-    "servers": ["https://raw.githubusercontent.com/DeathDefying/UI-Remover/master/remove_BossWindow/"],
-    "description": "Description goes here."
+    "servers": ["https://raw.githubusercontent.com/Foglio1024/UI-Remover/master/remove_BossWindow/"],
+    "description": "Hides boss and mobs HP bars."
 }

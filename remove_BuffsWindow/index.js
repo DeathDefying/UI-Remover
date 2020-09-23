@@ -1,9 +1,10 @@
-const config = require('./config.json');
-module.exports = function BossWindow(m) {
-    let disabled = config.disabled;
-    if(!disabled)
+exports.ClientMod = class
+{
+    constructor(mod)
     {
-        m.installGPK("S1UI_Abnormality.gpk");
+        this.install = function(installer)
+        {
+            installer.gpk("S1UI_Abnormality.gpk");
+        };
     }
-    return;
 }

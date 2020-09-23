@@ -1,12 +1,12 @@
 {
     "disableAutoUpdate": false,
     "name": "remove-PartyWindow",
-    "category": "client",
-    "author": "Yang",
+    "keywords" : ["client"],
+    "author": "Yang, Foglio",
     "options": {
-        "guiName": "UI Remover: Party Window",
-        "niceName": "UI Remover: Party Window"
+        "guiName": "UI Remover: Party/Raid Windows",
+        "cliName": "UI Remover: Party/Raid Windows"
     },
-    "servers": ["https://raw.githubusercontent.com/DeathDefying/UI-Remover/master/remove_PartyWindow/"],
-    "description": "Description goes here."
+    "servers": ["https://raw.githubusercontent.com/Foglio1024/UI-Remover/master/remove_PartyWindow/"],
+    "description": "Hides party members and raid members."
 }

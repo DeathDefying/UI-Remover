@@ -1,12 +1,8 @@
 {
 	"files": {
-		"S1UI_GageBoss.gpk": "c2c7bbda47e48d9345c88926fdae7e18e44a8b01b1aa5e0ae21aa888de3cf1ca",
-		"S1UI_TargetInfo.gpk": "c2c7bbda47e48d9345c88926fdae7e18e44a8b01b1aa5e0ae21aa888de3cf1ca",
-		"config.json": {
-			"overwrite": false,
-			"hash": "ebd3d3cb8ff6f281c7eadbf13104ced1c72b864363dc69a4225c3cb527d1c061"
-		},
-		"index.js": "d56c771d66b66863fbf4d07d0f70c38549453b1a74827c4cb03ea5625818bdcb",
-		"module.json": "a0226a02189a5bf9a296da1bfa9cd376ab9b0001d11c0cc388a20cfe58a17b74"
+		"S1UI_GageBoss.gpk": "7e3fad36d8b96a14d2663694de6d71e7d29b34cbcee850cc700641dcf3946e6d",
+		"S1UI_TargetInfo.gpk": "0cca883d6a8ca8a07fc336288c5629623983b4e67dbd6292437c83cf03078d91",
+		"index.js": "3de9a6517eef1bf37120596e17d5b242c6c9be7db1560da16015e8779c836fbe",
+		"module.json": "2aae4be8802e56f0a13d625079ba43602b7c373449bad207dfed7cda1425576e"
 	}
 }

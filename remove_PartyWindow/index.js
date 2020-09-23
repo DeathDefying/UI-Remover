@@ -1,9 +1,11 @@
-const config = require('./config.json');
-module.exports = function PartyWindow(m) {
-    let disabled = config.disabled;
-    if(!disabled)
-	{
-        m.installGPK("S1UI_PartyWindow.gpk");
-	}
-    return;
+exports.ClientMod = class
+{
+    constructor(mod)
+    {
+        this.install = function(installer)
+        {
+            installer.gpk("S1UI_PartyWindow.gpk");
+            installer.gpk("S1UI_PartyWindowRaidInfo.gpk");
+        };
+    }
 }

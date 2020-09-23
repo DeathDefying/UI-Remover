@@ -1,9 +1,10 @@
-const config = require('./config.json');
-module.exports = function CharacterWindow(m) {
-    let disabled = config.disabled;
-    if(!disabled)
-	{
-        m.installGPK("S1UI_CharacterWindow.gpk");
-	}
-    return;
+exports.ClientMod = class
+{
+    constructor(mod)
+    {
+        this.install = function(installer)
+        {
+            installer.gpk("S1UI_CharacterWindow.gpk");
+        };
+    }
 }

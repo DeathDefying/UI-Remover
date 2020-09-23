@@ -1,12 +1,8 @@
 {
 	"files": {
-		"S1UI_PartyBoard.gpk": "c2c7bbda47e48d9345c88926fdae7e18e44a8b01b1aa5e0ae21aa888de3cf1ca",
-		"S1UI_PartyBoardMemberInfo.gpk": "c2c7bbda47e48d9345c88926fdae7e18e44a8b01b1aa5e0ae21aa888de3cf1ca",
-		"config.json": {
-			"overwrite": false,
-			"hash": "ebd3d3cb8ff6f281c7eadbf13104ced1c72b864363dc69a4225c3cb527d1c061"
-		},
-		"index.js": "37dca3e181179da2f69ee3348ba8f0f73530ba555a3e10e97eff181bcae7b5b3",
-		"module.json": "91ea965b1152dfbc2a9843db21d3342b3e773735511f18963b374596cb8b144c"
+		"S1UI_PartyBoard.gpk": "a9143c1dfe7bac9607068ab2acda6369bcf698fd78962a430be7b17fdbff30fc",
+		"S1UI_PartyBoardMemberInfo.gpk": "61127050fbd52a686a0bdc3affc66f86795cd85ccb136f361b43511a72258f57",
+		"index.js": "2816be9ab4e02b1221938215fa3cc96594e0db8310650063908a59599b3eddae",
+		"module.json": "1f4abd82a728844a1d38791c94f8b09b09de5d7f4173ec03fa653ab8ecc3a1c7"
 	}
 }

@@ -1,12 +1,12 @@
 {
     "disableAutoUpdate": false,
     "name": "remove-LFG window",
-    "category": "client",
-    "author": "Yang",
+    "keywords" : ["client"],
+    "author": "Yang, Foglio",
     "options": {
         "guiName": "UI Remover: LFG Window",
-        "niceName": "UI Remover: LFG Window"
+        "cliName": "UI Remover: LFG Window"
     },
-    "servers": ["https://raw.githubusercontent.com/DeathDefying/UI-Remover/master/remove_LfgWindow/"],
-    "description": "Description goes here."
+    "servers": ["https://raw.githubusercontent.com/Foglio1024/UI-Remover/master/remove_LfgWindow/"],
+    "description": "Hides LFG window and applicants window."
 }
