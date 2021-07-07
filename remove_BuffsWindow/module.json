@@ -1,15 +1,12 @@
 {
     "disableAutoUpdate": false,
-    "dependencies": {
-        "modern-Resources": "https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_Resources/module.json"
-    },
     "name": "remove-Buffs",
-    "category": "client",
-    "author": "Yang",
+    "keywords" : ["client"],
+    "author": "Yang, Foglio",
     "options": {
         "guiName": "UI Remover: Buff Window",
-        "niceName": "UI Remover: Buff Window"
+        "cliName": "UI Remover: Buff Window"
     },
-    "servers": ["https://raw.githubusercontent.com/DeathDefying/UI-Remover/master/remove_BuffsWindow/"],
-    "description": "Description goes here."
+    "servers": ["https://raw.githubusercontent.com/Foglio1024/UI-Remover/master/remove_BuffsWindow/"],
+    "description": "Hides buff bar."
 }

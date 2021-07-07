@@ -1,10 +1,14 @@
-const config = require('./config.json');
-module.exports = function BossWindow(m) {
-    let disabled = config.disabled;
-    if(!disabled)
+exports.ClientMod = class
+{
+    constructor(mod)
     {
-        m.installGPK("S1UI_GageBoss.gpk");
-        m.installGPK("S1UI_TargetInfo.gpk");
+        mod.log("This mod has been merged into TCC main module and can be uninstalled.");
+        return;
+
+        this.install = function(installer)
+        {
+            installer.gpk("S1UI_GageBoss.gpk");
+            installer.gpk("S1UI_TargetInfo.gpk");
+        };
     }
-    return;
 }

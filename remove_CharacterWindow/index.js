@@ -1,9 +1,13 @@
-const config = require('./config.json');
-module.exports = function CharacterWindow(m) {
-    let disabled = config.disabled;
-    if(!disabled)
-	{
-        m.installGPK("S1UI_CharacterWindow.gpk");
-	}
-    return;
+exports.ClientMod = class
+{
+    constructor(mod)
+    {
+        mod.log("This mod has been merged into TCC main module and can be uninstalled.");
+        return;
+
+        this.install = function(installer)
+        {
+            installer.gpk("S1UI_CharacterWindow.gpk");
+        };
+    }
 }

@@ -1,15 +1,12 @@
 {
     "disableAutoUpdate": false,
-    "dependencies": {
-        "modern-Resources": "https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_Resources/module.json"
-    },
     "name": "remove-CharacterWindow",
-    "category": "client",
-    "author": "Yang",
+    "keywords" : ["client"],
+    "author": "Yang, Foglio",
     "options": {
         "guiName": "UI Remover: Character Window",
-        "niceName": "UI Remover: Character Window"
+        "cliName": "UI Remover: Character Window"
     },
-    "servers": ["https://raw.githubusercontent.com/DeathDefying/UI-Remover/master/remove_CharacterWindow/"],
-    "description": "Description goes here."
+    "servers": ["https://raw.githubusercontent.com/Foglio1024/UI-Remover/master/remove_CharacterWindow/"],
+    "description": "Removes player HP/MP bars."
 }
